@@ -1,6 +1,11 @@
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><h2><strong>Doctors</strong></h2>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<h2>Navigation</h2>
+<ul>
+  <li><a href="../index.html">Home Page</a></li>
+</ul>
+<h2><strong>Doctors</strong></h2>
 	<ul>
-		<li><a href="../doctor-who/doctor-who-01.html">The First Doctor</a></li>
+	  <li><a href="../doctor-who/doctor-who-01.html">The First Doctor</a></li>
 		<li><a href="../doctor-who/doctor-who-02.html">The Second Doctor</a></li>
 		<li><a href="../doctor-who/doctor-who-03.html">The Third Doctor</a></li>
 		<li><a href="../doctor-who/doctor-who-04.html">The Fourth Doctor</a></li>
@@ -22,10 +27,9 @@
 		</ul>
 	<h2><strong>Enemies</strong></h2>
 	<ul>
-		<li><a href="../enemies/dalek.html">Daleks</a></li>
+		<li><a href="../enemies/daleks.html">Daleks</a></li>
 		<li><a href="../enemies/cybermen.html">Cybermen</a></li>
 		<li><a href="../enemies/adipose.html">Adipose</a></li>
 		<li><a href="../enemies/the-master.html">The Master</a></li>
-		<li><a href="../enemies/sontaran.html">Sontarans</a></li>
-		</ul>
-	<h2><a href="../index.html">Homepage</a></h2>
+		<li><a href="../enemies/sontarans.html">Sontarans</a></li>
+	</ul>
